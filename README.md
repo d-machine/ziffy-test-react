@@ -2,7 +2,7 @@
 
 ## After cloning the application,
 
-### Change the BASE_URL in src/ajax.js file.
+### Change the BASE_URL in src/ajax.js file, as per your express server url
 
 ### Run the following commands -
 ### `npm install`
